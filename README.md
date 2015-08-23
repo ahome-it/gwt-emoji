@@ -19,3 +19,8 @@ dependencies {
     compile(group:'com.ahome-it',name:'gwt-emoji',version:'1.0.0-SNAPSHOT')
 }
 ```
+
+Direct Download
+```
+http://opensource.ahome-it.com/#gwtemoji
+```
