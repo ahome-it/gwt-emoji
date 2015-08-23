@@ -69,9 +69,19 @@ public class EmojiTest implements EntryPoint {
 }
 ```
 
+Note that it's also possible to use the emojis in non GWT applications(regular web apps).
+Simply copy and save the e.css and e.png files somewhere on your server. Then you can do something like the following to add the emoji:
+
+```html
+<i class="smile" style="background: url(url_to_e.png_file)"></i>
+```
+
+Its also possible to modify the emoji size. To see the different sizes available see the 
+EmojiSize enum.
+
 Demo	
 
-http://www.lienzo-core.com/lienzo-ks/
+http://ahome-it.github.io/gwt-emoji/
 
 License:
 
