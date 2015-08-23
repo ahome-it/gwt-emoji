@@ -10,7 +10,7 @@ Maven:
 <dependency>
   <groupId>com.ahome-it</groupId>
   <artifactId>gwt-emoji</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
 </dependency>
 ```
 Gradle:
