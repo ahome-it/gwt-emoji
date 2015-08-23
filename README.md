@@ -69,6 +69,18 @@ public class EmojiTest implements EntryPoint {
 }
 ```
 
+Demo	
+
+http://www.lienzo-core.com/lienzo-ks/
+
+License:
+
+Copyright (c) 2014,2015 Ahome Innovation Technologies. All rights reserved.
+
+Lienzo is released under version 2.0 of the Apache License.
+
+http://www.apache.org/licenses/LICENSE-2.0.html
+
  
 
 
